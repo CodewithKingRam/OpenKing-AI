@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/OpenKing-ai/static/css/main.f855e6bc.css",
-    "main.js": "/OpenKing-ai/static/js/main.cbea27d2.js",
-    "static/js/453.90b26c86.chunk.js": "/OpenKing-ai/static/js/453.90b26c86.chunk.js",
-    "static/media/logo.svg": "/OpenKing-ai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/OpenKing-ai/index.html",
-    "main.f855e6bc.css.map": "/OpenKing-ai/static/css/main.f855e6bc.css.map",
-    "main.cbea27d2.js.map": "/OpenKing-ai/static/js/main.cbea27d2.js.map",
-    "453.90b26c86.chunk.js.map": "/OpenKing-ai/static/js/453.90b26c86.chunk.js.map"
+    "main.css": "/OpenKing-AI/static/css/main.f855e6bc.css",
+    "main.js": "/OpenKing-AI/static/js/main.3a2a6cb3.js",
+    "static/js/453.90b26c86.chunk.js": "/OpenKing-AI/static/js/453.90b26c86.chunk.js",
+    "static/media/logo.svg": "/OpenKing-AI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/OpenKing-AI/index.html",
+    "main.f855e6bc.css.map": "/OpenKing-AI/static/css/main.f855e6bc.css.map",
+    "main.3a2a6cb3.js.map": "/OpenKing-AI/static/js/main.3a2a6cb3.js.map",
+    "453.90b26c86.chunk.js.map": "/OpenKing-AI/static/js/453.90b26c86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.cbea27d2.js"
+    "static/js/main.3a2a6cb3.js"
   ]
 }
